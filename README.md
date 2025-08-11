@@ -81,5 +81,3 @@ jest.config.js
 ------------
 
 **License:** MIT
-
-I hope this README file meets your requirements. Let me know if you need any further modifications! 😊
